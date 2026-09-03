@@ -2,6 +2,10 @@
 
 Aplicação de página única desenvolvida para a atividade de Frameworks. O projeto usa React com Vite e apresenta um catálogo de livros com busca em tempo real e cadastro de novos itens.
 
+## Site publicado
+
+O catálogo está disponível em [pablosoares1572.github.io/trabalho-web-2](https://pablosoares1572.github.io/trabalho-web-2/). Cada envio para a branch `main` dispara automaticamente uma nova publicação pelo GitHub Pages.
+
 ## Integrante
 
 - Pablo Soares
