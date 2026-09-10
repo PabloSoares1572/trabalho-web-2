@@ -9,6 +9,7 @@ O catálogo está disponível em [pablosoares1572.github.io/trabalho-web-2](http
 ## Integrante
 
 - Pablo Soares
+- Milleny Evan
 
 ## Funcionalidades
 
